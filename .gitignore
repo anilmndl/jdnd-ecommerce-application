@@ -1,4 +1,5 @@
 .idea/
-target/
+starter_code/target
 
 *.iml
+application.log
